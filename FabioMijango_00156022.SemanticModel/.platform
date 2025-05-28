@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "FabioMijango_00156022"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "6c2c40ce-23b0-4e37-84bb-34f151a22566"
+  }
+}
